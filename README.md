@@ -25,7 +25,7 @@ I will now quickly describe the purpose of each folder/file.
 - Reinforcement Learning file showcases how to use RLHF with a PPO algorithm to align the responses of an LLM to be less toxic
 - Running models with LangChain with the HuggingFace api or loading them from HuggingFace to run locally 
 # Gemini_multi_tools
-- LangChain with Google's Gemini Model uinsg their API.
+- LangChain with Google's Gemini Model using their API.
 - Rag
 - PAL
 - Multimodal usecase
